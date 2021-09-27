@@ -1,1 +1,1 @@
-[path](https://drive.google.com/drive/u/0/folders/1EVxVfo9yMpUbZuDKJFN2dnc8kBoJZ5VO)
+[Pre-trained deepOrganoid models](https://drive.google.com/drive/u/0/folders/1EVxVfo9yMpUbZuDKJFN2dnc8kBoJZ5VO)
