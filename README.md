@@ -2,6 +2,7 @@
 Directory structure:<br />
 <pre>
 ./datasets		Pointer to an training, growth, and testing datasets<br />
+./Example_Data		a small dataset to run on<br />
 ./env			Python environment for inference/deployment<br />
 ./Models		Pointer to external directory hosting the pre-trained deepOrganoid model exported from DLS<br />
 ./scripts		Scripts/code used for deploying the deepOrganoid model<br />
