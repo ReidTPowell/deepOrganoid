@@ -3,8 +3,9 @@ Directory structure:<br />
 <pre>
 ./datasets		Pointer to an training, growth, and testing datasets<br />
 ./env			Python environment for inference/deployment<br />
-./model			Pointer to external directory hosting the pre-trained deepOrganoid model exported from DLS<br />
+./Models		Pointer to external directory hosting the pre-trained deepOrganoid model exported from DLS<br />
 ./scripts		Scripts/code used for deploying the deepOrganoid model<br />
+Run deepOrganoid	Jupyter notebook script to run the deepOrganoid models
 LICENSE			Licensing infromation
 README.md		This file
 </pre>
